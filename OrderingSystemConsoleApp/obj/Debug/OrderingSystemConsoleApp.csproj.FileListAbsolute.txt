@@ -1,0 +1,24 @@
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\bin\Debug\OrderingSystemConsoleApp.exe.config
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\bin\Debug\OrderingSystemConsoleApp.exe
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\bin\Debug\OrderingSystemConsoleApp.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\bin\Debug\Domain.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\bin\Debug\Utility.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\bin\Debug\Domain.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\bin\Debug\Utility.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.csproj.CopyComplete
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.exe
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\bin\Debug\OrderingSystemConsoleApp.exe.config
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\bin\Debug\OrderingSystemConsoleApp.exe
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\bin\Debug\OrderingSystemConsoleApp.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\bin\Debug\Domain.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\bin\Debug\Utility.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\bin\Debug\Domain.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\bin\Debug\Utility.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.csprojAssemblyReference.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.csproj.CopyComplete
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.exe
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystemConsoleApp\obj\Debug\OrderingSystemConsoleApp.pdb

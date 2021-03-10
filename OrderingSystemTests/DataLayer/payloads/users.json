@@ -1,0 +1,1 @@
+[{"Id":1,"Name":"NewUser","YearOfBorn":1996,"IsAdmin":true,"IsRegister":true,"UserName":"Username12","Password":"Password12"},{"Id":2,"Name":"User1","YearOfBorn":2000,"IsAdmin":true,"IsRegister":false,"UserName":"Username1","Password":"Password1"},{"Id":3,"Name":"User2","YearOfBorn":1955,"IsAdmin":true,"IsRegister":false,"UserName":"Username2","Password":"Password2"}]

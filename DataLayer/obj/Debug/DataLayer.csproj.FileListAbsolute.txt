@@ -1,0 +1,22 @@
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\bin\Debug\Domain.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\bin\Debug\Domain.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\bin\Debug\Domain.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\bin\Debug\Domain.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\DataLayer\obj\Debug\DataLayer.pdb

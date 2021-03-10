@@ -1,0 +1,18 @@
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\bin\Debug\OrderingSystem.exe.config
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\bin\Debug\OrderingSystem.exe
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\bin\Debug\OrderingSystem.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\obj\Debug\OrderingSystem.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\obj\Debug\OrderingSystem.Properties.Resources.resources
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\obj\Debug\OrderingSystem.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\obj\Debug\OrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\obj\Debug\OrderingSystem.exe
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\OrderingSystem\obj\Debug\OrderingSystem.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.exe.config
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.exe
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.csprojAssemblyReference.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.Properties.Resources.resources
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.csproj.GenerateResource.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.exe
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.pdb

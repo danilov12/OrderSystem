@@ -1,0 +1,30 @@
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\DataLayer.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\Domain.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\Utility.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\DataLayer.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\Domain.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\Utility.pdb
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\WINDOWS 10\source\repos\OrderingSystem.UI\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\DataLayer.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\Domain.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\Utility.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\DataLayer.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\Domain.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\Utility.pdb
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\I539767\OneDrive - SAP SE\Desktop\OrderingSystem\ServiceLayer\obj\Debug\ServiceLayer.pdb
